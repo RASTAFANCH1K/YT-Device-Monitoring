@@ -1,0 +1,5 @@
+### OLOLO
+*.py[cod]
+docked-compose.yaml
+log/
+resources/products.json
