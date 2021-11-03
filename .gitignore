@@ -1,5 +1,5 @@
 ### OLOLO
 *.py[cod]
-docked-compose.yaml
+docker-compose.yaml
 log/
 resources/products.json
